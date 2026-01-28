@@ -1,0 +1,2081 @@
+{
+  "entity_type": "playlist_schema",
+  "id": "206c83df-80de-4307-8ddd-e74a8f631506",
+  "name": "電脳メガネのまちに福井高専あり",
+  "playlist_clips": [
+    {
+      "clip": {
+        "status": "complete",
+        "title": "サバエ・エレクトロ・バイブス",
+        "play_count": 3,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "4fa029bc-8edb-47a3-9088-c9b0db0b4bf6",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "https://cdn1.suno.ai/4fa029bc-8edb-47a3-9088-c9b0db0b4bf6.mp3",
+        "image_url": "https://cdn2.suno.ai/image_4fa029bc-8edb-47a3-9088-c9b0db0b4bf6.jpeg",
+        "image_large_url": "https://cdn2.suno.ai/image_large_4fa029bc-8edb-47a3-9088-c9b0db0b4bf6.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "African techno groove with syncopated hand percussion, rubbery sub bass, metallic mallet synths. Male vocals riding a hypnotic four-on-the-floor, verses tighter and drier; chorus widens with airy pads, call-and-response chants, and clapped polyrhythms. Gradual build, then a late break with chopped vocal stabs before the final hook., techno",
+          "prompt": "[Verse 1]\\n電脳メガネのまちで\\n朝焼け　ガラスが光る\\nフクイコーセンの前を\\n自転車　風だけ連れてく\\n\\n[Pre-Chorus]\\n白衣のポケット　ペンだらけ\\nノートの隅に　夢ばかり\\n「できるかな？」ってつぶやいて\\n配線図に　明日を書いた\\n\\n[Chorus]\\nサバエでひらく　このビジョン\\n目の前　世界が揺れる\\n電脳メガネ越しの未来\\nフクイコーセンから　飛び立て\\n(ハイハイハイ)\\nサバエで跳ねる　このリズム\\n心臓　ビートと重なる\\n汗と笑いで組むプログラム\\nフクイコーセンから　つながる\\n\\n[Verse 2]\\n商店街のシャッターに\\nマーカーで描くインターフェイス\\nださいって笑われても\\n本気の線は　消えやしない\\n\\n[Pre-Chorus]\\n実験室の窓の外\\n田んぼの向こう　山青い\\n土の匂いとモニターの熱\\nぜんぶまとめて　僕の場所\\n\\n[Chorus]\\nサバエでひらく　このビジョン\\n目の前　世界が揺れる\\n電脳メガネ越しの未来\\nフクイコーセンから　飛び立て\\n(ウォウウォウ)\\nサバエで跳ねる　このリズム\\n心臓　ビートと重なる\\n汗と笑いで組むプログラム\\nフクイコーセンから　つながる\\n\\n[Bridge]\\nうまくいかない日もある\\n回路が真夜中に沈黙する\\nだけど机にうつぶせた\\n額に　新しい光\\n\\n[Chorus]\\nサバエでひらく　このビジョン\\n目の前　世界が揺れる\\n電脳メガネ越しの未来\\nフクイコーセンから　飛び立て\\nサバエで跳ねる　このリズム\\n心臓　ビートと重なる\\nここが僕らのスタートライン\\nフクイコーセンから　世界へ",
+          "gpt_description_prompt": "電脳メガネのまち、サバエにフクイコーセンがある,african techno",
+          "type": "gen",
+          "duration": 186.72,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "task": "",
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+        "is_trashed": false,
+        "created_at": "2026-01-28T04:41:38.770Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "techno",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 1
+      },
+      "relative_index": 0
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "サバエ・エレクトロ・バイブス",
+        "play_count": 0,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "f4a3bd59-bc76-4bad-bdc5-bc376fd00bfb",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "https://cdn1.suno.ai/f4a3bd59-bc76-4bad-bdc5-bc376fd00bfb.mp3",
+        "image_url": "https://cdn2.suno.ai/image_f4a3bd59-bc76-4bad-bdc5-bc376fd00bfb.jpeg",
+        "image_large_url": "https://cdn2.suno.ai/image_large_f4a3bd59-bc76-4bad-bdc5-bc376fd00bfb.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "African techno groove with syncopated hand percussion, rubbery sub bass, metallic mallet synths. Male vocals riding a hypnotic four-on-the-floor, verses tighter and drier; chorus widens with airy pads, call-and-response chants, and clapped polyrhythms. Gradual build, then a late break with chopped vocal stabs before the final hook., techno",
+          "prompt": "[Verse 1]\\n電脳メガネのまちで\\n朝焼け　ガラスが光る\\nフクイコーセンの前を\\n自転車　風だけ連れてく\\n\\n[Pre-Chorus]\\n白衣のポケット　ペンだらけ\\nノートの隅に　夢ばかり\\n「できるかな？」ってつぶやいて\\n配線図に　明日を書いた\\n\\n[Chorus]\\nサバエでひらく　このビジョン\\n目の前　世界が揺れる\\n電脳メガネ越しの未来\\nフクイコーセンから　飛び立て\\n(ハイハイハイ)\\nサバエで跳ねる　このリズム\\n心臓　ビートと重なる\\n汗と笑いで組むプログラム\\nフクイコーセンから　つながる\\n\\n[Verse 2]\\n商店街のシャッターに\\nマーカーで描くインターフェイス\\nださいって笑われても\\n本気の線は　消えやしない\\n\\n[Pre-Chorus]\\n実験室の窓の外\\n田んぼの向こう　山青い\\n土の匂いとモニターの熱\\nぜんぶまとめて　僕の場所\\n\\n[Chorus]\\nサバエでひらく　このビジョン\\n目の前　世界が揺れる\\n電脳メガネ越しの未来\\nフクイコーセンから　飛び立て\\n(ウォウウォウ)\\nサバエで跳ねる　このリズム\\n心臓　ビートと重なる\\n汗と笑いで組むプログラム\\nフクイコーセンから　つながる\\n\\n[Bridge]\\nうまくいかない日もある\\n回路が真夜中に沈黙する\\nだけど机にうつぶせた\\n額に　新しい光\\n\\n[Chorus]\\nサバエでひらく　このビジョン\\n目の前　世界が揺れる\\n電脳メガネ越しの未来\\nフクイコーセンから　飛び立て\\nサバエで跳ねる　このリズム\\n心臓　ビートと重なる\\nここが僕らのスタートライン\\nフクイコーセンから　世界へ",
+          "gpt_description_prompt": "電脳メガネのまち、サバエにフクイコーセンがある,african techno",
+          "type": "gen",
+          "duration": 186.88,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "task": "",
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+        "is_trashed": false,
+        "created_at": "2026-01-28T04:41:38.770Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "techno",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0
+      },
+      "relative_index": 1
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "電脳メガネのまち",
+        "play_count": 1,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "e0680c55-7661-4fd2-9c72-c14279542b7d",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "https://cdn1.suno.ai/e0680c55-7661-4fd2-9c72-c14279542b7d.mp3",
+        "image_url": "https://cdn2.suno.ai/image_e0680c55-7661-4fd2-9c72-c14279542b7d.jpeg",
+        "image_large_url": "https://cdn2.suno.ai/image_large_e0680c55-7661-4fd2-9c72-c14279542b7d.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "rock, Upbeat Japanese rock band style, mid-fast tempo, twin guitars with crunchy power chords and bright lead lines, tight bass and punchy drums locking the groove. Verses stay more stripped with choppy rhythms and vocal focus; chorus explodes with wide open chords, gang shouts, and soaring male vocals. Short guitar hook between sections, crowd-ready energy perfect for live call-and-response.",
+          "prompt": "[Verse 1]\\n朝焼けのホーム\\nくもったレンズふいて\\nギターケース片手に\\n今日もサバエへ向かう\\n\\n電柱にかかる\\n古いポスターひらり\\n「夢はここからだ」\\nちょっとだけ信じてみる\\n\\n[Chorus]\\n電脳メガネのまちで叫べ\\nフクイコーセンの空へ (hey!)\\nちっぽけな計算式\\nぶち壊すくらいの声で\\n\\n電脳メガネのまちで走れ\\nフクイコーセンの風を切れ\\n図面だらけの机から\\n世界を書きかえるんだ\\n\\n[Verse 2]\\n教室のすみに\\n落書きしたロゴマーク\\nギターのネックと\\nフレームがクロスする\\n\\n授業終わりの屋上\\n「バンドやろうぜ」って\\n笑ったあの日から\\n心拍数が変わった\\n\\n[Chorus]\\n電脳メガネのまちで叫べ\\nフクイコーセンの空へ (wow)\\n赤ペンのバツ印\\n未来まで持ち込ませない\\n\\n電脳メガネのまちで走れ\\nフクイコーセンの風を切れ\\n課題まみれの夜更けを\\nアンコールに変えてやれ\\n\\n[Bridge]\\nうまくいかない日もある\\nハンダごて落として\\n「向いてないかもな」\\nつぶやいた帰り道\\n\\nショーウィンドウ越しに\\n光るフレームが笑う\\n「顔あげろ」って\\n言われた気がした (うおー)\\n\\n[Chorus]\\n電脳メガネのまちで叫べ\\nフクイコーセンの空へ (hey!)\\n傷だらけのレンズでも\\n見たい景色があるから\\n\\n電脳メガネのまちで走れ\\nフクイコーセンの風を切れ\\n卒業写真の先まで\\nこの仲間と鳴らすんだ",
+          "gpt_description_prompt": "電脳メガネのまち、サバエにフクイコーセンがある,rock band",
+          "type": "gen",
+          "duration": 178.16,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "task": "",
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+        "is_trashed": false,
+        "created_at": "2026-01-28T04:40:59.626Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "rock",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 1
+      },
+      "relative_index": 2
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "電脳メガネのまち",
+        "play_count": 0,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "7cf7685a-376c-45a8-991e-62129d661f67",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "https://cdn1.suno.ai/7cf7685a-376c-45a8-991e-62129d661f67.mp3",
+        "image_url": "https://cdn2.suno.ai/image_7cf7685a-376c-45a8-991e-62129d661f67.jpeg",
+        "image_large_url": "https://cdn2.suno.ai/image_large_7cf7685a-376c-45a8-991e-62129d661f67.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "rock, Upbeat Japanese rock band style, mid-fast tempo, twin guitars with crunchy power chords and bright lead lines, tight bass and punchy drums locking the groove. Verses stay more stripped with choppy rhythms and vocal focus; chorus explodes with wide open chords, gang shouts, and soaring male vocals. Short guitar hook between sections, crowd-ready energy perfect for live call-and-response.",
+          "prompt": "[Verse 1]\\n朝焼けのホーム\\nくもったレンズふいて\\nギターケース片手に\\n今日もサバエへ向かう\\n\\n電柱にかかる\\n古いポスターひらり\\n「夢はここからだ」\\nちょっとだけ信じてみる\\n\\n[Chorus]\\n電脳メガネのまちで叫べ\\nフクイコーセンの空へ (hey!)\\nちっぽけな計算式\\nぶち壊すくらいの声で\\n\\n電脳メガネのまちで走れ\\nフクイコーセンの風を切れ\\n図面だらけの机から\\n世界を書きかえるんだ\\n\\n[Verse 2]\\n教室のすみに\\n落書きしたロゴマーク\\nギターのネックと\\nフレームがクロスする\\n\\n授業終わりの屋上\\n「バンドやろうぜ」って\\n笑ったあの日から\\n心拍数が変わった\\n\\n[Chorus]\\n電脳メガネのまちで叫べ\\nフクイコーセンの空へ (wow)\\n赤ペンのバツ印\\n未来まで持ち込ませない\\n\\n電脳メガネのまちで走れ\\nフクイコーセンの風を切れ\\n課題まみれの夜更けを\\nアンコールに変えてやれ\\n\\n[Bridge]\\nうまくいかない日もある\\nハンダごて落として\\n「向いてないかもな」\\nつぶやいた帰り道\\n\\nショーウィンドウ越しに\\n光るフレームが笑う\\n「顔あげろ」って\\n言われた気がした (うおー)\\n\\n[Chorus]\\n電脳メガネのまちで叫べ\\nフクイコーセンの空へ (hey!)\\n傷だらけのレンズでも\\n見たい景色があるから\\n\\n電脳メガネのまちで走れ\\nフクイコーセンの風を切れ\\n卒業写真の先まで\\nこの仲間と鳴らすんだ",
+          "gpt_description_prompt": "電脳メガネのまち、サバエにフクイコーセンがある,rock band",
+          "type": "gen",
+          "duration": 159.16,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "task": "",
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+        "is_trashed": false,
+        "created_at": "2026-01-28T04:40:59.626Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "rock",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0
+      },
+      "relative_index": 3
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "電脳メガネのまちで",
+        "play_count": 1,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "c49af988-8996-49ae-87db-d37bd44181f0",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "https://cdn1.suno.ai/c49af988-8996-49ae-87db-d37bd44181f0.mp3",
+        "image_url": "https://cdn2.suno.ai/image_c49af988-8996-49ae-87db-d37bd44181f0.jpeg",
+        "image_large_url": "https://cdn2.suno.ai/image_large_c49af988-8996-49ae-87db-d37bd44181f0.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "Bouncy J-pop band feel with bright synth bells and crisp drums; mid-tempo groove that lets the vocal stay clear and playful. Verses stay tight and rhythmic with plucky guitar; chorus opens into wide major chords, doubled male vocals, and a catchy, chantable hook. Brief synth hook between sections echoes the melody for instant memorability., environmental",
+          "prompt": "[Verse 1]\\n朝いちばんのバスに揺られ\\nガラス越しに　山が笑う\\n小さな工場の看板光る\\n「福井コーセン」って読めた気がした\\n\\n[Chorus]\\n電脳メガネのまち　サバエ\\nひらめきが風みたいに飛んでく\\n福井コーセンの前で深呼吸\\n未来の色が　胸にあふれる\\n\\n[Verse 2]\\n作業着の背中　同じロゴ\\nこすれた手のひら　誇らしげ\\n資源をまわす　静かなルール\\n地球の声を　耳すませてる\\n\\n[Chorus]\\n電脳メガネのまち　サバエ\\nひとつひとつの部品に想い\\n福井コーセンが守る景色\\nきれいな明日を　ここからつくる\\n\\n[Bridge]\\n雨上がりのアスファルト\\nにじんだ空が映る\\n空も街も　つながってるから\\n捨てない　汚さない　選んでく\\n\\n[Chorus]\\n電脳メガネのまち　サバエ\\n環境のこと　話したくなるね\\n福井コーセンの窓にうつる\\n緑の未来を　いま歌うよ",
+          "gpt_description_prompt": "電脳メガネのまち、サバエに福井コーセンがある,environmental",
+          "type": "gen",
+          "duration": 132.4,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "task": "",
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+        "is_trashed": false,
+        "created_at": "2026-01-28T04:37:01.296Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "J-pop, pop",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 1
+      },
+      "relative_index": 4
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "電脳メガネのまちで",
+        "play_count": 0,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "0c25e902-4e43-434e-af59-a1b7cca4cae7",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "https://cdn1.suno.ai/0c25e902-4e43-434e-af59-a1b7cca4cae7.mp3",
+        "image_url": "https://cdn2.suno.ai/image_0c25e902-4e43-434e-af59-a1b7cca4cae7.jpeg",
+        "image_large_url": "https://cdn2.suno.ai/image_large_0c25e902-4e43-434e-af59-a1b7cca4cae7.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "Bouncy J-pop band feel with bright synth bells and crisp drums; mid-tempo groove that lets the vocal stay clear and playful. Verses stay tight and rhythmic with plucky guitar; chorus opens into wide major chords, doubled male vocals, and a catchy, chantable hook. Brief synth hook between sections echoes the melody for instant memorability., environmental",
+          "prompt": "[Verse 1]\\n朝いちばんのバスに揺られ\\nガラス越しに　山が笑う\\n小さな工場の看板光る\\n「福井コーセン」って読めた気がした\\n\\n[Chorus]\\n電脳メガネのまち　サバエ\\nひらめきが風みたいに飛んでく\\n福井コーセンの前で深呼吸\\n未来の色が　胸にあふれる\\n\\n[Verse 2]\\n作業着の背中　同じロゴ\\nこすれた手のひら　誇らしげ\\n資源をまわす　静かなルール\\n地球の声を　耳すませてる\\n\\n[Chorus]\\n電脳メガネのまち　サバエ\\nひとつひとつの部品に想い\\n福井コーセンが守る景色\\nきれいな明日を　ここからつくる\\n\\n[Bridge]\\n雨上がりのアスファルト\\nにじんだ空が映る\\n空も街も　つながってるから\\n捨てない　汚さない　選んでく\\n\\n[Chorus]\\n電脳メガネのまち　サバエ\\n環境のこと　話したくなるね\\n福井コーセンの窓にうつる\\n緑の未来を　いま歌うよ",
+          "gpt_description_prompt": "電脳メガネのまち、サバエに福井コーセンがある,environmental",
+          "type": "gen",
+          "duration": 136.52,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "task": "",
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+        "is_trashed": false,
+        "created_at": "2026-01-28T04:37:01.296Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "J-pop, pop",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0
+      },
+      "relative_index": 5
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "サバエ電脳メガネシティ",
+        "play_count": 2,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "23868faf-0be1-4e36-8029-610f76502547",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "https://cdn1.suno.ai/23868faf-0be1-4e36-8029-610f76502547.mp3",
+        "image_url": "https://cdn2.suno.ai/image_23868faf-0be1-4e36-8029-610f76502547.jpeg",
+        "image_large_url": "https://cdn2.suno.ai/image_large_23868faf-0be1-4e36-8029-610f76502547.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "Glitchy environmental techno with airy pads, pulsing sidechained synths, and a clean four-on-the-floor kick. Field-recording textures of streets and wind weave under a bright melodic hook. Male vocals in clipped phrases; vocoder harmonies bloom in the chorus, then a stripped, hypnotic mid-track break before the final lift., techno, environmental",
+          "prompt": "[Verse 1]\\n朝焼け　ガラス越し\\nひとつ深呼吸して\\nフレームの中の空\\n山までくっきり映る\\n\\n歩道にひかるライン\\n学生カバン揺れて\\n制服と作業着が\\n同じバス停で笑う\\n\\n[Chorus]\\nここはサバエ　電脳メガネシティ\\n視界ひらくたび　未来が増えてく\\n福井高専　坂道登るたび\\n見えるよ　緑とアイデア　つながる地図\\nサバエ　電脳メガネシティ\\n風と回路が　やさしく混ざる街\\n\\n[Verse 2]\\nレンズ越し　田んぼチェック\\n水面　雲をうつす\\n小さなドローンの影\\nカエルの声と混ざる\\n\\n教室の窓の外\\nソーラーパネル光る\\nノートに走る文字\\n「この川　もっときれいに」\\n\\n[Chorus]\\nここはサバエ　電脳メガネシティ\\n視界ひらくたび　未来が増えてく\\n福井高専　坂道登るたび\\n見えるよ　緑とアイデア　つながる地図\\nサバエ　電脳メガネシティ\\n風と回路が　やさしく混ざる街\\n\\n[Bridge]\\n霧の朝　雪の夜\\nフレームくもらせる息\\nそれでも　前だけ見る\\n更新中のこの景色 (hey!)\\n\\n[Chorus]\\nここはサバエ　電脳メガネシティ\\n視界ひらくたび　未来が増えてく\\n福井高専　坂道登るたび\\n見えるよ　君と環境と　ひとつの道\\nサバエ　電脳メガネシティ\\n風と回路が　やさしく混ざる街",
+          "gpt_description_prompt": "電脳メガネのまち、サバエに福井高専あり,environmental techno",
+          "type": "gen",
+          "duration": 326.8,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "task": "",
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+        "is_trashed": false,
+        "created_at": "2026-01-28T04:32:16.468Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "techno, environmental",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 1
+      },
+      "relative_index": 6
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "サバエ電脳メガネシティ",
+        "play_count": 0,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "1650c485-9864-4625-8c0a-0262245f09e1",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "https://cdn1.suno.ai/1650c485-9864-4625-8c0a-0262245f09e1.mp3",
+        "image_url": "https://cdn2.suno.ai/image_1650c485-9864-4625-8c0a-0262245f09e1.jpeg",
+        "image_large_url": "https://cdn2.suno.ai/image_large_1650c485-9864-4625-8c0a-0262245f09e1.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "Glitchy environmental techno with airy pads, pulsing sidechained synths, and a clean four-on-the-floor kick. Field-recording textures of streets and wind weave under a bright melodic hook. Male vocals in clipped phrases; vocoder harmonies bloom in the chorus, then a stripped, hypnotic mid-track break before the final lift., techno, environmental",
+          "prompt": "[Verse 1]\\n朝焼け　ガラス越し\\nひとつ深呼吸して\\nフレームの中の空\\n山までくっきり映る\\n\\n歩道にひかるライン\\n学生カバン揺れて\\n制服と作業着が\\n同じバス停で笑う\\n\\n[Chorus]\\nここはサバエ　電脳メガネシティ\\n視界ひらくたび　未来が増えてく\\n福井高専　坂道登るたび\\n見えるよ　緑とアイデア　つながる地図\\nサバエ　電脳メガネシティ\\n風と回路が　やさしく混ざる街\\n\\n[Verse 2]\\nレンズ越し　田んぼチェック\\n水面　雲をうつす\\n小さなドローンの影\\nカエルの声と混ざる\\n\\n教室の窓の外\\nソーラーパネル光る\\nノートに走る文字\\n「この川　もっときれいに」\\n\\n[Chorus]\\nここはサバエ　電脳メガネシティ\\n視界ひらくたび　未来が増えてく\\n福井高専　坂道登るたび\\n見えるよ　緑とアイデア　つながる地図\\nサバエ　電脳メガネシティ\\n風と回路が　やさしく混ざる街\\n\\n[Bridge]\\n霧の朝　雪の夜\\nフレームくもらせる息\\nそれでも　前だけ見る\\n更新中のこの景色 (hey!)\\n\\n[Chorus]\\nここはサバエ　電脳メガネシティ\\n視界ひらくたび　未来が増えてく\\n福井高専　坂道登るたび\\n見えるよ　君と環境と　ひとつの道\\nサバエ　電脳メガネシティ\\n風と回路が　やさしく混ざる街",
+          "gpt_description_prompt": "電脳メガネのまち、サバエに福井高専あり,environmental techno",
+          "type": "gen",
+          "duration": 258.16,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "task": "",
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+        "is_trashed": false,
+        "created_at": "2026-01-28T04:32:16.468Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "techno, environmental",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0
+      },
+      "relative_index": 7
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "電脳メガネ・スローテクノ",
+        "play_count": 2,
+        "upvote_count": 1,
+        "allow_comments": true,
+        "id": "dfd52438-101d-4fcf-b096-481e7c512469",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "https://cdn1.suno.ai/dfd52438-101d-4fcf-b096-481e7c512469.mp3",
+        "image_url": "https://cdn2.suno.ai/image_dfd52438-101d-4fcf-b096-481e7c512469.jpeg",
+        "image_large_url": "https://cdn2.suno.ai/image_large_dfd52438-101d-4fcf-b096-481e7c512469.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "Slow, hypnotic techno groove around 118 BPM, pulsing kick and elastic bass, metallic arps echoing like neon reflections. Female vocals, cool and slightly detached on the verses; choruses get breathy and intimate with doubled lines and soft vocoder layers. Occasional filtered risers and stutter edits on key phrases to mimic digital glitches in a midnight factory town., slow, techno",
+          "prompt": "[Verse 1]\\n駅前ロータリー　人はまばら\\nガラスのショーケース　光だけが歩く\\nフレームの向こうで　世界がゆがむ\\nサバエの夜更け　まぶたより冴えてる\\n\\n[Chorus]\\n電脳メガネのまち\\n瞬きもデータになる\\n視界ごとアップデート\\nきみの横顔　保存している\\n電脳メガネのまち\\nレンズ越し　恋に落ちる\\nピント合わせた先で\\n福井高専　胸が鳴る\\n\\n[Verse 2]\\nキャンパスの窓から　零れる青\\n徹夜のモニターが　朝焼けを消す\\n回路図だらけの　ノートのすみ\\n小さな落書き　ふたりのタイムライン\\n\\n[Chorus]\\n電脳メガネのまち\\n瞬きもデータになる\\n視界ごとアップデート\\nきみの横顔　保存している\\n電脳メガネのまち\\nレンズ越し　恋に落ちる\\nピント合わせた先で\\n福井高専　胸が鳴る\\n\\n[Bridge]\\n雨粒ひとつ　センサーが拾う\\n通学路さえ　グリッドの上\\nきみの笑い声だけ\\n数値にできないまま　揺れている\\n\\n[Chorus]\\n電脳メガネのまち\\n瞬きもデータになる\\n視界ごとアップデート\\nきみの横顔　保存している\\n電脳メガネのまち\\nレンズ越し　恋に落ちる\\nピント合わせた先で\\n福井高専　胸が鳴る (yeah)\\n福井高専　胸が鳴る",
+          "gpt_description_prompt": "電脳メガネのまち、サバエに福井高専あり,slow techno",
+          "type": "gen",
+          "duration": 277.12,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "task": "",
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+        "is_trashed": false,
+        "created_at": "2026-01-28T04:31:48.592Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "techno",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 1
+      },
+      "relative_index": 8
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "電脳メガネ・スローテクノ",
+        "play_count": 1,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "03033a82-acbe-4d02-b1d3-354d21bdff37",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "https://cdn1.suno.ai/03033a82-acbe-4d02-b1d3-354d21bdff37.mp3",
+        "image_url": "https://cdn2.suno.ai/image_03033a82-acbe-4d02-b1d3-354d21bdff37.jpeg",
+        "image_large_url": "https://cdn2.suno.ai/image_large_03033a82-acbe-4d02-b1d3-354d21bdff37.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "Slow, hypnotic techno groove around 118 BPM, pulsing kick and elastic bass, metallic arps echoing like neon reflections. Female vocals, cool and slightly detached on the verses; choruses get breathy and intimate with doubled lines and soft vocoder layers. Occasional filtered risers and stutter edits on key phrases to mimic digital glitches in a midnight factory town., slow, techno",
+          "prompt": "[Verse 1]\\n駅前ロータリー　人はまばら\\nガラスのショーケース　光だけが歩く\\nフレームの向こうで　世界がゆがむ\\nサバエの夜更け　まぶたより冴えてる\\n\\n[Chorus]\\n電脳メガネのまち\\n瞬きもデータになる\\n視界ごとアップデート\\nきみの横顔　保存している\\n電脳メガネのまち\\nレンズ越し　恋に落ちる\\nピント合わせた先で\\n福井高専　胸が鳴る\\n\\n[Verse 2]\\nキャンパスの窓から　零れる青\\n徹夜のモニターが　朝焼けを消す\\n回路図だらけの　ノートのすみ\\n小さな落書き　ふたりのタイムライン\\n\\n[Chorus]\\n電脳メガネのまち\\n瞬きもデータになる\\n視界ごとアップデート\\nきみの横顔　保存している\\n電脳メガネのまち\\nレンズ越し　恋に落ちる\\nピント合わせた先で\\n福井高専　胸が鳴る\\n\\n[Bridge]\\n雨粒ひとつ　センサーが拾う\\n通学路さえ　グリッドの上\\nきみの笑い声だけ\\n数値にできないまま　揺れている\\n\\n[Chorus]\\n電脳メガネのまち\\n瞬きもデータになる\\n視界ごとアップデート\\nきみの横顔　保存している\\n電脳メガネのまち\\nレンズ越し　恋に落ちる\\nピント合わせた先で\\n福井高専　胸が鳴る (yeah)\\n福井高専　胸が鳴る",
+          "gpt_description_prompt": "電脳メガネのまち、サバエに福井高専あり,slow techno",
+          "type": "gen",
+          "duration": 189.88,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "task": "",
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+        "is_trashed": false,
+        "created_at": "2026-01-28T04:31:48.591Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "techno",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0
+      },
+      "relative_index": 9
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "電脳メガネ・ハイウェイ",
+        "play_count": 2,
+        "upvote_count": 1,
+        "allow_comments": true,
+        "id": "eadc58ae-1fda-4e1c-9691-c1fcce7542c4",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "https://cdn1.suno.ai/eadc58ae-1fda-4e1c-9691-c1fcce7542c4.mp3",
+        "image_url": "https://cdn2.suno.ai/image_eadc58ae-1fda-4e1c-9691-c1fcce7542c4.jpeg",
+        "image_large_url": "https://cdn2.suno.ai/image_large_eadc58ae-1fda-4e1c-9691-c1fcce7542c4.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "pop, Glossy city pop groove with soft electric piano, mellow funk bass, and clean rhythm guitar. Mid-tempo bounce, male vocals, tight drums with neon-tinged synth pads. Pre-chorus lifts with rising chords; chorus blossoms into bright backing harmonies and a hooky topline. Short bridge strips back to bass and keys before a final, shimmering chorus.",
+          "prompt": "[Verse 1]\\n改札出れば　風がちがう\\nフレーム越しに　色づく午後\\nガラスケースの　きらめくフチ\\n名前も知らない　技術(ワザ)の匂い\\n\\n[Pre-Chorus]\\n路地を曲がれば　誰かの夢が\\n工場あかりで　まだ起きてる\\n小さなはんだの　光の粒が\\n星より近くで　また瞬く\\n\\n[Chorus]\\n電脳メガネのまち　サバエ\\nきょうも未来が　顔を出す\\n黒板のチョークが描いた線が\\nレンズのむこうで　道になる\\n電脳メガネのまち　サバエ\\n福井高専　胸が鳴る\\n眠れないほど　アイデアが\\n夜を走るよ　ハイウェイ\\n\\n[Verse 2]\\nバス停前で　かけ直すフレーム\\n曇った視界を　指でなぞる\\n隣で笑う　あの子の声が\\n回路図よりも　ずっとむずかしい\\n\\n[Pre-Chorus]\\n教室の窓に　差しこむ朝が\\nノートの落書き　金色にする\\n「できるかな」より「やってみよう」が\\n合言葉みたいに　飛び交ってる\\n\\n[Chorus]\\n電脳メガネのまち　サバエ\\nきょうも未来が　顔を出す\\n黒板のチョークが描いた線が\\nレンズのむこうで　道になる\\n電脳メガネのまち　サバエ\\n福井高専　胸が鳴る\\n失敗さえも　宝物\\n笑いながら　アップデート\\n\\n[Bridge]\\nテスト前の夜　画面ひかる\\nレポートのすみに　小さな夢\\n「いつか世界が　のぞき込む」\\nそんなレンズを　ここで作ろう\\n\\n[Chorus]\\n電脳メガネのまち　サバエ\\nきょうも未来が　顔を出す\\nあの日の落書き　線をつないで\\nレンズのむこうで　道になる\\n電脳メガネのまち　サバエ\\n福井高専　胸を張る\\nこのまちから　ひらめきが\\n空へ飛び立つ　ハイウェイ",
+          "gpt_description_prompt": "電脳メガネのまち、サバエに福井高専あり,city pop",
+          "type": "gen",
+          "duration": 219.96,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "task": "",
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+        "is_trashed": false,
+        "created_at": "2026-01-28T04:30:08.031Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "pop, city pop, funk",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 1
+      },
+      "relative_index": 10
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "電脳メガネ・ハイウェイ",
+        "play_count": 0,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "2b25cb75-9bcd-4a97-86a5-fb0d278598da",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "https://cdn1.suno.ai/2b25cb75-9bcd-4a97-86a5-fb0d278598da.mp3",
+        "image_url": "https://cdn2.suno.ai/image_2b25cb75-9bcd-4a97-86a5-fb0d278598da.jpeg",
+        "image_large_url": "https://cdn2.suno.ai/image_large_2b25cb75-9bcd-4a97-86a5-fb0d278598da.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "pop, Glossy city pop groove with soft electric piano, mellow funk bass, and clean rhythm guitar. Mid-tempo bounce, male vocals, tight drums with neon-tinged synth pads. Pre-chorus lifts with rising chords; chorus blossoms into bright backing harmonies and a hooky topline. Short bridge strips back to bass and keys before a final, shimmering chorus.",
+          "prompt": "[Verse 1]\\n改札出れば　風がちがう\\nフレーム越しに　色づく午後\\nガラスケースの　きらめくフチ\\n名前も知らない　技術(ワザ)の匂い\\n\\n[Pre-Chorus]\\n路地を曲がれば　誰かの夢が\\n工場あかりで　まだ起きてる\\n小さなはんだの　光の粒が\\n星より近くで　また瞬く\\n\\n[Chorus]\\n電脳メガネのまち　サバエ\\nきょうも未来が　顔を出す\\n黒板のチョークが描いた線が\\nレンズのむこうで　道になる\\n電脳メガネのまち　サバエ\\n福井高専　胸が鳴る\\n眠れないほど　アイデアが\\n夜を走るよ　ハイウェイ\\n\\n[Verse 2]\\nバス停前で　かけ直すフレーム\\n曇った視界を　指でなぞる\\n隣で笑う　あの子の声が\\n回路図よりも　ずっとむずかしい\\n\\n[Pre-Chorus]\\n教室の窓に　差しこむ朝が\\nノートの落書き　金色にする\\n「できるかな」より「やってみよう」が\\n合言葉みたいに　飛び交ってる\\n\\n[Chorus]\\n電脳メガネのまち　サバエ\\nきょうも未来が　顔を出す\\n黒板のチョークが描いた線が\\nレンズのむこうで　道になる\\n電脳メガネのまち　サバエ\\n福井高専　胸が鳴る\\n失敗さえも　宝物\\n笑いながら　アップデート\\n\\n[Bridge]\\nテスト前の夜　画面ひかる\\nレポートのすみに　小さな夢\\n「いつか世界が　のぞき込む」\\nそんなレンズを　ここで作ろう\\n\\n[Chorus]\\n電脳メガネのまち　サバエ\\nきょうも未来が　顔を出す\\nあの日の落書き　線をつないで\\nレンズのむこうで　道になる\\n電脳メガネのまち　サバエ\\n福井高専　胸を張る\\nこのまちから　ひらめきが\\n空へ飛び立つ　ハイウェイ",
+          "gpt_description_prompt": "電脳メガネのまち、サバエに福井高専あり,city pop",
+          "type": "gen",
+          "duration": 183,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "task": "",
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+        "is_trashed": false,
+        "created_at": "2026-01-28T04:30:08.031Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "pop, city pop, funk",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0
+      },
+      "relative_index": 11
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "電脳メガネのまち",
+        "play_count": 0,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "356e36b0-9a16-4236-8773-cfd8d1c238fc",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "https://cdn1.suno.ai/356e36b0-9a16-4236-8773-cfd8d1c238fc.mp3",
+        "image_url": "https://cdn2.suno.ai/image_356e36b0-9a16-4236-8773-cfd8d1c238fc.jpeg",
+        "image_large_url": "https://cdn2.suno.ai/image_large_356e36b0-9a16-4236-8773-cfd8d1c238fc.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "Energetic J-pop/rock with bright synth arps and tight band groove; verses bounce on syncopated drums and clean guitar chops, pre-chorus adds rising pads and claps, chorus explodes with stacked male vocals and shout-along hooks, brief middle-eight break with chiptune-style lead then full-band return for a final, triumphant chorus",
+          "prompt": "[Verse 1]\\n朝焼けひかるホームで\\nフレーム光る通学路\\nレンズ越しの地図の上\\nピン留めされた「未来」\\n\\n交差点ごとにひとつ\\nひらめきが増えていく\\n電脳メガネのまちで\\nくすぶってた焦りが騒ぐ\\n\\n[Pre-Chorus]\\nやりたいだけが\\n多すぎてさ\\n時間だけが\\n足りないけど\\n\\n[Chorus]\\n電脳メガネのまち サバエで\\n夢をかけ合わせろ 福井高専\\nはんだごての先に 明日が灯る\\n「できるかも」を「やった」に変えてく場所\\n\\n電脳メガネのまち サバエから\\nまだ誰も知らない景色まで\\nありえないを笑って 設計図にする\\nここから始まるストーリー\\n\\n[Verse 2]\\n授業終わりのラボには\\nコーヒーより濃い熱気\\nモニタの青いひかり\\n目の下のクマまで染める\\n\\n失敗のログだらけの\\nプロジェクト名「希望」\\n消さないままで上書き\\n何度でも更新ボタン\\n\\n[Pre-Chorus]\\n遠回りでも\\nショートしても\\n仲間がいれば\\nリセットできる\\n\\n[Chorus]\\n電脳メガネのまち サバエで\\n不器用な情熱が燃えている\\n「できない」の一言 捨ててしまえ\\n回路図よりもっと熱い鼓動\\n\\n電脳メガネのまち サバエから\\n世界線を少し曲げていく\\nありふれた日常を 実験台にして\\nここから変えてくストーリー\\n\\n[Bridge]\\nテスト前夜の教室で\\n窓の外 見上げたら\\nフレーム越しの星座たち\\nつなげたら答えが見える気がした (ah)\\n\\n[Chorus]\\n電脳メガネのまち サバエで\\n夢をかけ合わせろ 福井高専\\nはんだごての先に 明日が灯る\\n「できるかも」を「やった」に変えてく場所\\n\\n電脳メガネのまち サバエから\\nまだ誰も知らない景色まで\\nありえないを笑って 設計図にする\\nここから始まるストーリー\\n(ここから始めよう ストーリー)",
+          "gpt_description_prompt": "電脳メガネのまち、サバエに福井高専あり,acid",
+          "type": "gen",
+          "duration": 198.04,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "task": "",
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+        "is_trashed": false,
+        "created_at": "2026-01-28T04:24:34.479Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "J-pop, rock, chiptune",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 1
+      },
+      "relative_index": 12
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "電脳メガネのまち",
+        "play_count": 0,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "f8eb3d25-efb7-4d87-a56a-263127693b82",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "https://cdn1.suno.ai/f8eb3d25-efb7-4d87-a56a-263127693b82.mp3",
+        "image_url": "https://cdn2.suno.ai/image_f8eb3d25-efb7-4d87-a56a-263127693b82.jpeg",
+        "image_large_url": "https://cdn2.suno.ai/image_large_f8eb3d25-efb7-4d87-a56a-263127693b82.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "Energetic J-pop/rock with bright synth arps and tight band groove; verses bounce on syncopated drums and clean guitar chops, pre-chorus adds rising pads and claps, chorus explodes with stacked male vocals and shout-along hooks, brief middle-eight break with chiptune-style lead then full-band return for a final, triumphant chorus",
+          "prompt": "[Verse 1]\\n朝焼けひかるホームで\\nフレーム光る通学路\\nレンズ越しの地図の上\\nピン留めされた「未来」\\n\\n交差点ごとにひとつ\\nひらめきが増えていく\\n電脳メガネのまちで\\nくすぶってた焦りが騒ぐ\\n\\n[Pre-Chorus]\\nやりたいだけが\\n多すぎてさ\\n時間だけが\\n足りないけど\\n\\n[Chorus]\\n電脳メガネのまち サバエで\\n夢をかけ合わせろ 福井高専\\nはんだごての先に 明日が灯る\\n「できるかも」を「やった」に変えてく場所\\n\\n電脳メガネのまち サバエから\\nまだ誰も知らない景色まで\\nありえないを笑って 設計図にする\\nここから始まるストーリー\\n\\n[Verse 2]\\n授業終わりのラボには\\nコーヒーより濃い熱気\\nモニタの青いひかり\\n目の下のクマまで染める\\n\\n失敗のログだらけの\\nプロジェクト名「希望」\\n消さないままで上書き\\n何度でも更新ボタン\\n\\n[Pre-Chorus]\\n遠回りでも\\nショートしても\\n仲間がいれば\\nリセットできる\\n\\n[Chorus]\\n電脳メガネのまち サバエで\\n不器用な情熱が燃えている\\n「できない」の一言 捨ててしまえ\\n回路図よりもっと熱い鼓動\\n\\n電脳メガネのまち サバエから\\n世界線を少し曲げていく\\nありふれた日常を 実験台にして\\nここから変えてくストーリー\\n\\n[Bridge]\\nテスト前夜の教室で\\n窓の外 見上げたら\\nフレーム越しの星座たち\\nつなげたら答えが見える気がした (ah)\\n\\n[Chorus]\\n電脳メガネのまち サバエで\\n夢をかけ合わせろ 福井高専\\nはんだごての先に 明日が灯る\\n「できるかも」を「やった」に変えてく場所\\n\\n電脳メガネのまち サバエから\\nまだ誰も知らない景色まで\\nありえないを笑って 設計図にする\\nここから始まるストーリー\\n(ここから始めよう ストーリー)",
+          "gpt_description_prompt": "電脳メガネのまち、サバエに福井高専あり,acid",
+          "type": "gen",
+          "duration": 194.84,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "task": "",
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+        "is_trashed": false,
+        "created_at": "2026-01-28T04:24:34.479Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "J-pop, rock, chiptune",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0
+      },
+      "relative_index": 13
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "電脳メガネのまち",
+        "play_count": 0,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "4044de62-9070-4214-9b2b-75c6a06ef7e9",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "https://cdn1.suno.ai/4044de62-9070-4214-9b2b-75c6a06ef7e9.mp3",
+        "image_url": "https://cdn2.suno.ai/image_4044de62-9070-4214-9b2b-75c6a06ef7e9.jpeg",
+        "image_large_url": "https://cdn2.suno.ai/image_large_4044de62-9070-4214-9b2b-75c6a06ef7e9.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "dance, Bright Japanese EDM with male vocals; brisk four-on-the-floor kick, sidechained synth pads, glittery arps. Verses stay tight over a minimal bass pulse; chorus blooms wide with stacked gang-style chants on the hook and rising supersaw leads. Short vocoder ad-libs answer key lines, with a hands-in-the-air final chorus and a clean, uplifting mix., edm",
+          "prompt": "[Verse 1]\\n朝のホーム　霧のなか\\nレンズ越しに　ひらける世界\\n鯖江駅から　坂道こえて\\n高専バスが　今日もゆれる\\n\\nノートの端に　描いた回路\\nまだカタチない　夢のかけら\\nフレームみたいに　つなぎ合わせて\\n誰も見たことない　景色をかける\\n\\n[Chorus]\\n電脳メガネのまち　サバエで (hey!)\\nひらめきが光る　福井高専\\n画面じゃ足りない　未来をつくる\\n視界の先まで　アップデート\\n\\n電脳メガネのまち　サバエから (woah)\\n世界地図の端　書きかえてく\\nボルトひとつの　ドキドキ抱いて\\n今日もキミと　スタートライン\\n\\n[Verse 2]\\n工場の窓　夜まで灯る\\nレンズ磨く　手のぬくもり\\nそのとなりで　設計ソフト\\nカチカチ鳴って　心も走る\\n\\n失敗の数だけ　メモが増えてく\\n消しゴム黒く　すり減るページ\\nそれでも笑って　「もう一回」って\\n言える仲間が　ここにいるんだ\\n\\n[Chorus]\\n電脳メガネのまち　サバエで (yeah)\\nきらきらにじむ　福井高専\\nポインタ追いかけ　夜をまたいで\\n朝焼け色まで　コンパイル\\n\\n電脳メガネのまち　サバエから\\nフレームより広い　夢をかける\\n視力検査じゃ　測れないもの\\nこの鼓動ごと　アップグレード\\n\\n[Bridge]\\n雨の日だって　くもるレンズ\\nそれでも消えない　青いビジョン\\n「できるかな」より　「やってみよう」って\\n口グセみたいに　飛び出す言葉 (oh)\\n\\n[Chorus]\\n電脳メガネのまち　サバエで\\nひらめきが光る　福井高専\\n画面じゃ足りない　未来をつくる\\n視界の先まで　アップデート\\n\\n電脳メガネのまち　サバエから\\n世界地図の端　書きかえてく\\nボルトひとつの　ドキドキ抱いて\\n今　スタートライン　踏み出してく",
+          "gpt_description_prompt": "電脳メガネのまち、サバエに福井高専あり,edm",
+          "type": "gen",
+          "duration": 210.44,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "task": "",
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+        "is_trashed": false,
+        "created_at": "2026-01-28T04:24:19.984Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "EDM",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 1
+      },
+      "relative_index": 14
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "電脳メガネのまち",
+        "play_count": 0,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "9cffb095-858b-4f3d-8b03-b13d47889052",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "https://cdn1.suno.ai/9cffb095-858b-4f3d-8b03-b13d47889052.mp3",
+        "image_url": "https://cdn2.suno.ai/image_9cffb095-858b-4f3d-8b03-b13d47889052.jpeg",
+        "image_large_url": "https://cdn2.suno.ai/image_large_9cffb095-858b-4f3d-8b03-b13d47889052.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "dance, Bright Japanese EDM with male vocals; brisk four-on-the-floor kick, sidechained synth pads, glittery arps. Verses stay tight over a minimal bass pulse; chorus blooms wide with stacked gang-style chants on the hook and rising supersaw leads. Short vocoder ad-libs answer key lines, with a hands-in-the-air final chorus and a clean, uplifting mix., edm",
+          "prompt": "[Verse 1]\\n朝のホーム　霧のなか\\nレンズ越しに　ひらける世界\\n鯖江駅から　坂道こえて\\n高専バスが　今日もゆれる\\n\\nノートの端に　描いた回路\\nまだカタチない　夢のかけら\\nフレームみたいに　つなぎ合わせて\\n誰も見たことない　景色をかける\\n\\n[Chorus]\\n電脳メガネのまち　サバエで (hey!)\\nひらめきが光る　福井高専\\n画面じゃ足りない　未来をつくる\\n視界の先まで　アップデート\\n\\n電脳メガネのまち　サバエから (woah)\\n世界地図の端　書きかえてく\\nボルトひとつの　ドキドキ抱いて\\n今日もキミと　スタートライン\\n\\n[Verse 2]\\n工場の窓　夜まで灯る\\nレンズ磨く　手のぬくもり\\nそのとなりで　設計ソフト\\nカチカチ鳴って　心も走る\\n\\n失敗の数だけ　メモが増えてく\\n消しゴム黒く　すり減るページ\\nそれでも笑って　「もう一回」って\\n言える仲間が　ここにいるんだ\\n\\n[Chorus]\\n電脳メガネのまち　サバエで (yeah)\\nきらきらにじむ　福井高専\\nポインタ追いかけ　夜をまたいで\\n朝焼け色まで　コンパイル\\n\\n電脳メガネのまち　サバエから\\nフレームより広い　夢をかける\\n視力検査じゃ　測れないもの\\nこの鼓動ごと　アップグレード\\n\\n[Bridge]\\n雨の日だって　くもるレンズ\\nそれでも消えない　青いビジョン\\n「できるかな」より　「やってみよう」って\\n口グセみたいに　飛び出す言葉 (oh)\\n\\n[Chorus]\\n電脳メガネのまち　サバエで\\nひらめきが光る　福井高専\\n画面じゃ足りない　未来をつくる\\n視界の先まで　アップデート\\n\\n電脳メガネのまち　サバエから\\n世界地図の端　書きかえてく\\nボルトひとつの　ドキドキ抱いて\\n今　スタートライン　踏み出してく",
+          "gpt_description_prompt": "電脳メガネのまち、サバエに福井高専あり,edm",
+          "type": "gen",
+          "duration": 192.2,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "task": "",
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+        "is_trashed": false,
+        "created_at": "2026-01-28T04:24:19.984Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "EDM",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0
+      },
+      "relative_index": 15
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "電脳メガネファンク・サバエ",
+        "play_count": 1,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "8ae378d6-abdb-4d2d-98bc-2f2d28f0a80d",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "https://cdn1.suno.ai/8ae378d6-abdb-4d2d-98bc-2f2d28f0a80d.mp3",
+        "image_url": "https://cdn2.suno.ai/image_8ae378d6-abdb-4d2d-98bc-2f2d28f0a80d.jpeg",
+        "image_large_url": "https://cdn2.suno.ai/image_large_8ae378d6-abdb-4d2d-98bc-2f2d28f0a80d.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "funk, Tight 100 BPM city-funk groove with rubbery bass and crisp rhythm guitar; male vocals riding a syncopated pocket, call-and-response horn stabs in the hook. Pre-chorus lifts with claps and octave synths, chorus explodes into chantable gang vocals. Short talkbox-style ad-libs and a brief breakdown before the last chorus for live crowd energy.",
+          "prompt": "[Verse 1]\\n朝イチのバスで　山の影くぐり\\nガードレール越しに　ひらけるまち\\nフレーム越しに　世界ピント合わせて\\nサバエに着いたら　もうスイッチオン\\n\\n[Pre-Chorus]\\n図面の余白に　こっそり描いた夢\\n誰も見てないようで　みんな見てる\\n\\n[Chorus]\\n電脳メガネのまち　サバエで踊れ\\nフクイ高専　合図ひとつで (hey!)\\n回路も恋も　つながる感じ\\nかけたメガネに　未来が映る\\n電脳メガネのまち　サバエで叫べ\\nフクイ高専　ここがスタートライン\\n失敗だって　ネタにしちゃえば\\n笑いながら　明日を書き換える\\n\\n[Verse 2]\\n放課後ラボで　眠たそうな仲間\\n半田ごて握って　目だけギラギラ\\nレンズの向こう　バグだらけの世界も\\n「おもしろそう」で　だいたいOK\\n\\n[Pre-Chorus]\\nレポートのすき間に　書き足す合図\\n「できるかわかんないけど　やってみようか」\\n\\n[Chorus]\\n電脳メガネのまち　サバエで踊れ\\nフクイ高専　合図ひとつで (yeah!)\\n退屈さえも　ネタに変えてく\\nくもったレンズを　指で拭き取る\\n電脳メガネのまち　サバエで叫べ\\nフクイ高専　クセになる日々\\n眠気と夢が　ごちゃまぜだけど\\nここからきっと　世界が変わる\\n\\n[Bridge]\\n駅前のネオンじゃなくて\\n工場の灯りが　夜を染める\\nその光の分だけ\\n作りたいものが　増えてく (oh)\\n\\n[Chorus]\\n電脳メガネのまち　サバエで踊れ\\nフクイ高専　合図ひとつで (hey!)\\n回路も恋も　つながる感じ\\nかけたメガネに　未来が映る\\n電脳メガネのまち　サバエで歌え\\nフクイ高専　胸はって行こう\\n迷いも全部　ポケットにしまい\\n笑いながら　明日を書き換える",
+          "gpt_description_prompt": "電脳メガネのまち、サバエに福井高専あり,funk",
+          "type": "gen",
+          "duration": 216.4,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "task": "",
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+        "is_trashed": false,
+        "created_at": "2026-01-28T04:20:03.009Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "funk",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 1
+      },
+      "relative_index": 16
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "電脳メガネファンク・サバエ",
+        "play_count": 2,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "af614979-7918-4df0-8db6-743f5948e016",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "https://cdn1.suno.ai/af614979-7918-4df0-8db6-743f5948e016.mp3",
+        "image_url": "https://cdn2.suno.ai/image_af614979-7918-4df0-8db6-743f5948e016.jpeg",
+        "image_large_url": "https://cdn2.suno.ai/image_large_af614979-7918-4df0-8db6-743f5948e016.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "funk, Tight 100 BPM city-funk groove with rubbery bass and crisp rhythm guitar; male vocals riding a syncopated pocket, call-and-response horn stabs in the hook. Pre-chorus lifts with claps and octave synths, chorus explodes into chantable gang vocals. Short talkbox-style ad-libs and a brief breakdown before the last chorus for live crowd energy.",
+          "prompt": "[Verse 1]\\n朝イチのバスで　山の影くぐり\\nガードレール越しに　ひらけるまち\\nフレーム越しに　世界ピント合わせて\\nサバエに着いたら　もうスイッチオン\\n\\n[Pre-Chorus]\\n図面の余白に　こっそり描いた夢\\n誰も見てないようで　みんな見てる\\n\\n[Chorus]\\n電脳メガネのまち　サバエで踊れ\\nフクイ高専　合図ひとつで (hey!)\\n回路も恋も　つながる感じ\\nかけたメガネに　未来が映る\\n電脳メガネのまち　サバエで叫べ\\nフクイ高専　ここがスタートライン\\n失敗だって　ネタにしちゃえば\\n笑いながら　明日を書き換える\\n\\n[Verse 2]\\n放課後ラボで　眠たそうな仲間\\n半田ごて握って　目だけギラギラ\\nレンズの向こう　バグだらけの世界も\\n「おもしろそう」で　だいたいOK\\n\\n[Pre-Chorus]\\nレポートのすき間に　書き足す合図\\n「できるかわかんないけど　やってみようか」\\n\\n[Chorus]\\n電脳メガネのまち　サバエで踊れ\\nフクイ高専　合図ひとつで (yeah!)\\n退屈さえも　ネタに変えてく\\nくもったレンズを　指で拭き取る\\n電脳メガネのまち　サバエで叫べ\\nフクイ高専　クセになる日々\\n眠気と夢が　ごちゃまぜだけど\\nここからきっと　世界が変わる\\n\\n[Bridge]\\n駅前のネオンじゃなくて\\n工場の灯りが　夜を染める\\nその光の分だけ\\n作りたいものが　増えてく (oh)\\n\\n[Chorus]\\n電脳メガネのまち　サバエで踊れ\\nフクイ高専　合図ひとつで (hey!)\\n回路も恋も　つながる感じ\\nかけたメガネに　未来が映る\\n電脳メガネのまち　サバエで歌え\\nフクイ高専　胸はって行こう\\n迷いも全部　ポケットにしまい\\n笑いながら　明日を書き換える",
+          "gpt_description_prompt": "電脳メガネのまち、サバエに福井高専あり,funk",
+          "type": "gen",
+          "duration": 236.88,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "task": "",
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+        "is_trashed": false,
+        "created_at": "2026-01-28T04:20:03.009Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "funk",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0
+      },
+      "relative_index": 17
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "電脳メガネシティサバエ",
+        "play_count": 1,
+        "upvote_count": 1,
+        "allow_comments": true,
+        "id": "c23d5ecf-79a5-4c99-b346-bf2765c9fc0b",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "https://cdn1.suno.ai/c23d5ecf-79a5-4c99-b346-bf2765c9fc0b.mp3",
+        "image_url": "https://cdn2.suno.ai/image_c23d5ecf-79a5-4c99-b346-bf2765c9fc0b.jpeg",
+        "image_large_url": "https://cdn2.suno.ai/image_large_c23d5ecf-79a5-4c99-b346-bf2765c9fc0b.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "Bright techno-pop groove with glitchy leads and elastic bass. Female vocals, tight and catchy. Verses ride on a bubbling arpeggio, pre-chorus thins to just kick and pad before a wide, sparkling chorus with stacked harmonies and chopped vocal fills. Short synth break after second hook, then a final, higher-energy chorus with extra ad-lib layers., techno",
+          "prompt": "[Verse 1]\\n改札ぬけたら　光るショーケース\\nフレーム並んでる　未来の顔たち\\nレンズ越しには　街のコードが\\n虹色スクロールで　あふれ出す\\n\\n[Pre-Chorus]\\n歩くたび　ピントが合う\\n知らない路地まで　ナビしてく\\nぼくらの地図　上書きして\\nサバエの今日が　アップデート\\n\\n[Chorus]\\n電脳メガネのまち　サバエ\\n瞬きするたび　広がる世界\\n福井高専　あのキャンパスで\\n誰かのアイデアが　明日になる\\n電脳メガネのまち　サバエ\\nかけた瞬間に　夢が見える\\n「できたらいいな」を　組み立ててく\\nここから始まる　ニュー・ビュー\\n\\n[Verse 2]\\n古い商店の　シャッターアート\\n描いたプログラム　壁に踊ってる\\n教室の窓に　映る青空\\nグラフみたいに　線が伸びる\\n\\n[Pre-Chorus]\\n失敗の数だけ　ログが増え\\nディスプレイの中　朝まで勝負\\n小さなチップ　指でつまみ\\nでっかい未来を　はめこんでく\\n\\n[Chorus]\\n電脳メガネのまち　サバエ\\nまぶたの裏まで　回路が走る\\n福井高専　放課後ラボで\\nまだ誰も知らない　景色つくる\\n電脳メガネのまち　サバエ\\n笑い声までも　データになる\\n「おもしろそうだ」で　つながってく\\nここからひろがる　ニュー・ビュー\\n\\n[Bridge]\\n見慣れた通学路も\\nフレーム一枚　変えたら違う\\n「ただの地方都市」なんて\\n言わせないからって　笑ってる (hey!)\\n\\n[Chorus]\\n電脳メガネのまち　サバエ\\n瞬きするたび　広がる世界\\n福井高専　このキャンパスから\\n誰かのひらめきが　合図を出す\\n電脳メガネのまち　サバエ\\nかけた瞬間に　夢が見える\\n「できるはずだよ」を　信じてく\\nここから始まる　ニュー・ビュー",
+          "gpt_description_prompt": "電脳メガネのまち、サバエに福井高専あり,techno",
+          "type": "gen",
+          "duration": 199.96,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "task": "",
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+        "is_trashed": false,
+        "created_at": "2026-01-28T04:19:37.763Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "techno, pop",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 1
+      },
+      "relative_index": 18
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "電脳メガネシティサバエ",
+        "play_count": 0,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "3e012a7a-91ef-4657-8a2a-84228a0548aa",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "https://cdn1.suno.ai/3e012a7a-91ef-4657-8a2a-84228a0548aa.mp3",
+        "image_url": "https://cdn2.suno.ai/image_3e012a7a-91ef-4657-8a2a-84228a0548aa.jpeg",
+        "image_large_url": "https://cdn2.suno.ai/image_large_3e012a7a-91ef-4657-8a2a-84228a0548aa.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "Bright techno-pop groove with glitchy leads and elastic bass. Female vocals, tight and catchy. Verses ride on a bubbling arpeggio, pre-chorus thins to just kick and pad before a wide, sparkling chorus with stacked harmonies and chopped vocal fills. Short synth break after second hook, then a final, higher-energy chorus with extra ad-lib layers., techno",
+          "prompt": "[Verse 1]\\n改札ぬけたら　光るショーケース\\nフレーム並んでる　未来の顔たち\\nレンズ越しには　街のコードが\\n虹色スクロールで　あふれ出す\\n\\n[Pre-Chorus]\\n歩くたび　ピントが合う\\n知らない路地まで　ナビしてく\\nぼくらの地図　上書きして\\nサバエの今日が　アップデート\\n\\n[Chorus]\\n電脳メガネのまち　サバエ\\n瞬きするたび　広がる世界\\n福井高専　あのキャンパスで\\n誰かのアイデアが　明日になる\\n電脳メガネのまち　サバエ\\nかけた瞬間に　夢が見える\\n「できたらいいな」を　組み立ててく\\nここから始まる　ニュー・ビュー\\n\\n[Verse 2]\\n古い商店の　シャッターアート\\n描いたプログラム　壁に踊ってる\\n教室の窓に　映る青空\\nグラフみたいに　線が伸びる\\n\\n[Pre-Chorus]\\n失敗の数だけ　ログが増え\\nディスプレイの中　朝まで勝負\\n小さなチップ　指でつまみ\\nでっかい未来を　はめこんでく\\n\\n[Chorus]\\n電脳メガネのまち　サバエ\\nまぶたの裏まで　回路が走る\\n福井高専　放課後ラボで\\nまだ誰も知らない　景色つくる\\n電脳メガネのまち　サバエ\\n笑い声までも　データになる\\n「おもしろそうだ」で　つながってく\\nここからひろがる　ニュー・ビュー\\n\\n[Bridge]\\n見慣れた通学路も\\nフレーム一枚　変えたら違う\\n「ただの地方都市」なんて\\n言わせないからって　笑ってる (hey!)\\n\\n[Chorus]\\n電脳メガネのまち　サバエ\\n瞬きするたび　広がる世界\\n福井高専　このキャンパスから\\n誰かのひらめきが　合図を出す\\n電脳メガネのまち　サバエ\\nかけた瞬間に　夢が見える\\n「できるはずだよ」を　信じてく\\nここから始まる　ニュー・ビュー",
+          "gpt_description_prompt": "電脳メガネのまち、サバエに福井高専あり,techno",
+          "type": "gen",
+          "duration": 165.36,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "task": "",
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+        "is_trashed": false,
+        "created_at": "2026-01-28T04:19:37.763Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "techno, pop",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0
+      },
+      "relative_index": 19
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "電脳メガネのまちで",
+        "play_count": 1,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "49c8d561-4b5f-4a16-b2ec-f98a3c59dd85",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "https://cdn1.suno.ai/49c8d561-4b5f-4a16-b2ec-f98a3c59dd85.mp3",
+        "image_url": "https://cdn2.suno.ai/image_49c8d561-4b5f-4a16-b2ec-f98a3c59dd85.jpeg",
+        "image_large_url": "https://cdn2.suno.ai/image_large_49c8d561-4b5f-4a16-b2ec-f98a3c59dd85.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "pop, Bright uptempo J-pop band feel, four-on-the-floor groove with crisp drums and sparkly rhythm guitars. Synth bells and arpeggios paint a “digital town” vibe, bass stays bouncy but light. Big, sing-along chorus with stacked male/female harmonies, short middle-eight drop to half-time then final chorus explodes with extra ad-libs and octave doubles., j-pop",
+          "prompt": "[Verse 1]\\n雨上がりのバス停で\\nくもったレンズ　指でなぞる\\n「今日も行くか」つぶやいたら\\n胸の中が　ちょっとだけ晴れた\\n\\n[Verse 2]\\n坂をのぼる自転車が\\n押してく風　少しつめたい\\n制服のポケットの中\\n未来みたいな　小さな基板\\n\\n[Chorus]\\n電脳メガネのまち　サバエで\\n空を見上げて　設計図を描く\\n福井高専の窓　灯りともるたび\\nまだ見ぬ世界が　ここから始まる\\n(サバエから　始まる)\\n\\n[Verse 3]\\n教室にはんだの匂い\\n指先には　ちいさな傷\\nそれでも笑って「うまくいくさ」\\n隣で誰かが　言ってくれた\\n\\n[Chorus]\\n電脳メガネのまち　サバエで\\n夢を組み立て　失敗もつなぐ\\n福井高専の夜　消えないモニター\\n眠らない願いが　青く瞬いた\\n(ほら　また光る)\\n\\n[Bridge]\\nもしも迷っても\\nこのレンズ越しに\\n仲間の笑顔が\\nちゃんと見えている\\n\\n[Chorus]\\n電脳メガネのまち　サバエで\\n何度だって　最初からやろう\\n福井高専から今　飛び出してゆく\\n小さなひらめきが　世界を変える\\n(サバエから　変える)\\n(サバエから　始まる)",
+          "gpt_description_prompt": "電脳メガネのまち、サバエに福井高専あり,j-pop",
+          "type": "gen",
+          "duration": 155.72,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "task": "",
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+        "is_trashed": false,
+        "created_at": "2026-01-28T04:18:55.336Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "pop, J-pop",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 1
+      },
+      "relative_index": 20
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "電脳メガネのまちで",
+        "play_count": 0,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "c4cba662-e072-43eb-a9a9-84132f7e6647",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "https://cdn1.suno.ai/c4cba662-e072-43eb-a9a9-84132f7e6647.mp3",
+        "image_url": "https://cdn2.suno.ai/image_c4cba662-e072-43eb-a9a9-84132f7e6647.jpeg",
+        "image_large_url": "https://cdn2.suno.ai/image_large_c4cba662-e072-43eb-a9a9-84132f7e6647.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "pop, Bright uptempo J-pop band feel, four-on-the-floor groove with crisp drums and sparkly rhythm guitars. Synth bells and arpeggios paint a “digital town” vibe, bass stays bouncy but light. Big, sing-along chorus with stacked male/female harmonies, short middle-eight drop to half-time then final chorus explodes with extra ad-libs and octave doubles., j-pop",
+          "prompt": "[Verse 1]\\n雨上がりのバス停で\\nくもったレンズ　指でなぞる\\n「今日も行くか」つぶやいたら\\n胸の中が　ちょっとだけ晴れた\\n\\n[Verse 2]\\n坂をのぼる自転車が\\n押してく風　少しつめたい\\n制服のポケットの中\\n未来みたいな　小さな基板\\n\\n[Chorus]\\n電脳メガネのまち　サバエで\\n空を見上げて　設計図を描く\\n福井高専の窓　灯りともるたび\\nまだ見ぬ世界が　ここから始まる\\n(サバエから　始まる)\\n\\n[Verse 3]\\n教室にはんだの匂い\\n指先には　ちいさな傷\\nそれでも笑って「うまくいくさ」\\n隣で誰かが　言ってくれた\\n\\n[Chorus]\\n電脳メガネのまち　サバエで\\n夢を組み立て　失敗もつなぐ\\n福井高専の夜　消えないモニター\\n眠らない願いが　青く瞬いた\\n(ほら　また光る)\\n\\n[Bridge]\\nもしも迷っても\\nこのレンズ越しに\\n仲間の笑顔が\\nちゃんと見えている\\n\\n[Chorus]\\n電脳メガネのまち　サバエで\\n何度だって　最初からやろう\\n福井高専から今　飛び出してゆく\\n小さなひらめきが　世界を変える\\n(サバエから　変える)\\n(サバエから　始まる)",
+          "gpt_description_prompt": "電脳メガネのまち、サバエに福井高専あり,j-pop",
+          "type": "gen",
+          "duration": 158.08,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "task": "",
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+        "is_trashed": false,
+        "created_at": "2026-01-28T04:18:55.336Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "pop, J-pop",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0
+      },
+      "relative_index": 21
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "電脳メガネ・ハートビート",
+        "play_count": 1,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "78af4ff0-e416-4af5-b1b1-6abbd3052437",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "https://cdn1.suno.ai/78af4ff0-e416-4af5-b1b1-6abbd3052437.mp3",
+        "image_url": "https://cdn2.suno.ai/image_78af4ff0-e416-4af5-b1b1-6abbd3052437.jpeg",
+        "image_large_url": "https://cdn2.suno.ai/image_large_78af4ff0-e416-4af5-b1b1-6abbd3052437.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "pop, Bright K-pop bounce with glossy synth leads and tight drums; verses ride on a nimble bass groove and percussive plucks, pre-chorus lifts with airy pads and octave jumps, chorus explodes with stacked female vocals, gang shouts, and sidechained chords; middle-eight strips to claps and vocal chops before a final, higher key chorus modulation, k-pop",
+          "prompt": "[Verse 1]\\n朝イチでバス飛び乗って\\n窓ガラスに　自撮りピース\\n制服に揺れる　キーホルダー\\nサバエ行きの　文字が光る\\n\\n[Pre-Chorus]\\nフレーム越しの　小さな世界\\nかけかえたら　色も変わるね\\n黒板より　まぶしい未来\\n見せてよ　見せてよ (hey!)\\n\\n[Chorus]\\n電脳メガネのまち　サバエでジャンプ\\n福井高専から　飛ぶイマジネーション\\nレンズの向こう　ひらくイノベーション\\nわたしの視界　今日がアップデート\\nサバエでジャンプ　心リブート\\n\\n[Verse 2]\\n放課後に集まるラボの隅\\nカップ麺と配線だらけ\\n「ムリかもね」って笑い合って\\nすぐ次の案　描き始める\\n\\n[Pre-Chorus]\\n当たり前を　疑うクセが\\nちょっとだけね　好きになってく\\n失敗さえも　宝物だと\\n気づいた瞬間 (woah)\\n\\n[Chorus]\\n電脳メガネのまち　サバエでジャンプ\\n福井高専から　飛ぶイマジネーション\\n技術と夢が　混ざるセッション\\nわたしの未来　今をコンパイル\\nサバエでジャンプ　心リブート\\n\\n[Bridge]\\n雨の国道　びしょ濡れスニーカー\\nでも消えない　このワクワク\\n街灯の下　フレームふきながら\\n「いつか世界も　驚かせよう」\\n\\n[Chorus]\\n電脳メガネのまち　サバエでジャンプ\\n福井高専から　飛ぶイマジネーション\\nレンズの向こう　ひらくイノベーション\\nわたしたちから　始まるリアル\\nサバエでジャンプ　未来リブート (hey!)",
+          "gpt_description_prompt": "電脳メガネのまち、サバエに福井高専あり,k-pop",
+          "type": "gen",
+          "duration": 154.76,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "task": "",
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+        "is_trashed": false,
+        "created_at": "2026-01-28T04:18:33.167Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "k-pop",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 1
+      },
+      "relative_index": 22
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "電脳メガネ・ハートビート",
+        "play_count": 0,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "11f1d6e7-66cf-4b4e-b7a8-9e5693c7792b",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "https://cdn1.suno.ai/11f1d6e7-66cf-4b4e-b7a8-9e5693c7792b.mp3",
+        "image_url": "https://cdn2.suno.ai/image_11f1d6e7-66cf-4b4e-b7a8-9e5693c7792b.jpeg",
+        "image_large_url": "https://cdn2.suno.ai/image_large_11f1d6e7-66cf-4b4e-b7a8-9e5693c7792b.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "pop, Bright K-pop bounce with glossy synth leads and tight drums; verses ride on a nimble bass groove and percussive plucks, pre-chorus lifts with airy pads and octave jumps, chorus explodes with stacked female vocals, gang shouts, and sidechained chords; middle-eight strips to claps and vocal chops before a final, higher key chorus modulation, k-pop",
+          "prompt": "[Verse 1]\\n朝イチでバス飛び乗って\\n窓ガラスに　自撮りピース\\n制服に揺れる　キーホルダー\\nサバエ行きの　文字が光る\\n\\n[Pre-Chorus]\\nフレーム越しの　小さな世界\\nかけかえたら　色も変わるね\\n黒板より　まぶしい未来\\n見せてよ　見せてよ (hey!)\\n\\n[Chorus]\\n電脳メガネのまち　サバエでジャンプ\\n福井高専から　飛ぶイマジネーション\\nレンズの向こう　ひらくイノベーション\\nわたしの視界　今日がアップデート\\nサバエでジャンプ　心リブート\\n\\n[Verse 2]\\n放課後に集まるラボの隅\\nカップ麺と配線だらけ\\n「ムリかもね」って笑い合って\\nすぐ次の案　描き始める\\n\\n[Pre-Chorus]\\n当たり前を　疑うクセが\\nちょっとだけね　好きになってく\\n失敗さえも　宝物だと\\n気づいた瞬間 (woah)\\n\\n[Chorus]\\n電脳メガネのまち　サバエでジャンプ\\n福井高専から　飛ぶイマジネーション\\n技術と夢が　混ざるセッション\\nわたしの未来　今をコンパイル\\nサバエでジャンプ　心リブート\\n\\n[Bridge]\\n雨の国道　びしょ濡れスニーカー\\nでも消えない　このワクワク\\n街灯の下　フレームふきながら\\n「いつか世界も　驚かせよう」\\n\\n[Chorus]\\n電脳メガネのまち　サバエでジャンプ\\n福井高専から　飛ぶイマジネーション\\nレンズの向こう　ひらくイノベーション\\nわたしたちから　始まるリアル\\nサバエでジャンプ　未来リブート (hey!)",
+          "gpt_description_prompt": "電脳メガネのまち、サバエに福井高専あり,k-pop",
+          "type": "gen",
+          "duration": 158.08,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "task": "",
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+        "is_trashed": false,
+        "created_at": "2026-01-28T04:18:33.167Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "k-pop",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0
+      },
+      "relative_index": 23
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "電脳メガネのまち",
+        "play_count": 1,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "c8fc27cb-0ba8-4b62-92df-3a6c9a03f5d0",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "https://cdn1.suno.ai/c8fc27cb-0ba8-4b62-92df-3a6c9a03f5d0.mp3",
+        "image_url": "https://cdn2.suno.ai/image_c8fc27cb-0ba8-4b62-92df-3a6c9a03f5d0.jpeg",
+        "image_large_url": "https://cdn2.suno.ai/image_large_c8fc27cb-0ba8-4b62-92df-3a6c9a03f5d0.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "Bouncy J-pop band feel with bright synth leads and live drums; male vocals upfront, playful tempo. Verses stay tight and rhythmic with palm-muted guitar and subtle chiptune blips; chorus explodes with stacked harmonies, open hi-hats, and a hooky synth counter-melody. Brief middle break strips back to claps and bass before a final, shout-along chorus.",
+          "prompt": "[Verse 1]\\n朝の駅前　霧が晴れてく\\nフレーム越しに　街がひらく\\nかけたメガネで　夢を測って\\nサバエ行きの　バスが笑う\\n\\n[Chorus]\\n電脳メガネのまち　サバエの空で\\nきらり　レンズに映る　僕らの未来\\n福井高専から　アイデア飛ばして\\n小さな工場から　世界をのぞく\\n\\n[Verse 2]\\n図面の余白　落書きみたいな\\nひらめき一つ　誰かが拾う\\nはんだの匂い　手に残したまま\\n夕焼けの坂　自転車で行く\\n\\n[Chorus]\\n電脳メガネのまち　サバエの空で\\nきらり　レンズに映る　僕らの未来\\n福井高専から　アイデア飛ばして\\n小さな工場から　世界をのぞく\\n\\n[Bridge]\\n失敗だらけの　ノートめくれば\\n笑い声まで　ページに挟まる\\n「できるかな」より　「やってみよう」で\\n今日もネジ一本　世界が変わる (hey!)\\n\\n[Chorus]\\n電脳メガネのまち　サバエの空で\\nきらり　レンズに映る　僕らの未来\\n福井高専あり　ここに集まって\\n僕らの視界から　世界をひらく",
+          "gpt_description_prompt": "電脳メガネのまち、サバエに福井高専あり",
+          "type": "gen",
+          "duration": 137.96,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "task": "",
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+        "is_trashed": false,
+        "created_at": "2026-01-28T04:18:16.448Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "J-pop, synth-pop, pop",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 1
+      },
+      "relative_index": 24
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "電脳メガネのまち",
+        "play_count": 1,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "96227225-cbe8-4dd2-8d3e-95602e9e950a",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "https://cdn1.suno.ai/96227225-cbe8-4dd2-8d3e-95602e9e950a.mp3",
+        "image_url": "https://cdn2.suno.ai/image_96227225-cbe8-4dd2-8d3e-95602e9e950a.jpeg",
+        "image_large_url": "https://cdn2.suno.ai/image_large_96227225-cbe8-4dd2-8d3e-95602e9e950a.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "Bouncy J-pop band feel with bright synth leads and live drums; male vocals upfront, playful tempo. Verses stay tight and rhythmic with palm-muted guitar and subtle chiptune blips; chorus explodes with stacked harmonies, open hi-hats, and a hooky synth counter-melody. Brief middle break strips back to claps and bass before a final, shout-along chorus.",
+          "prompt": "[Verse 1]\\n朝の駅前　霧が晴れてく\\nフレーム越しに　街がひらく\\nかけたメガネで　夢を測って\\nサバエ行きの　バスが笑う\\n\\n[Chorus]\\n電脳メガネのまち　サバエの空で\\nきらり　レンズに映る　僕らの未来\\n福井高専から　アイデア飛ばして\\n小さな工場から　世界をのぞく\\n\\n[Verse 2]\\n図面の余白　落書きみたいな\\nひらめき一つ　誰かが拾う\\nはんだの匂い　手に残したまま\\n夕焼けの坂　自転車で行く\\n\\n[Chorus]\\n電脳メガネのまち　サバエの空で\\nきらり　レンズに映る　僕らの未来\\n福井高専から　アイデア飛ばして\\n小さな工場から　世界をのぞく\\n\\n[Bridge]\\n失敗だらけの　ノートめくれば\\n笑い声まで　ページに挟まる\\n「できるかな」より　「やってみよう」で\\n今日もネジ一本　世界が変わる (hey!)\\n\\n[Chorus]\\n電脳メガネのまち　サバエの空で\\nきらり　レンズに映る　僕らの未来\\n福井高専あり　ここに集まって\\n僕らの視界から　世界をひらく",
+          "gpt_description_prompt": "電脳メガネのまち、サバエに福井高専あり",
+          "type": "gen",
+          "duration": 143.88,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "task": "",
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+        "is_trashed": false,
+        "created_at": "2026-01-28T04:18:16.448Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "J-pop, synth-pop, pop",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0
+      },
+      "relative_index": 25
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_4fa029bc-8edb-47a3-9088-c9b0db0b4bf6.jpeg",
+  "num_total_results": 26,
+  "current_page": 1,
+  "is_owned": false,
+  "is_trashed": false,
+  "is_public": true,
+  "is_hidden": false,
+  "user_display_name": "Taisuke Fukuno",
+  "user_handle": "taisukefukuno858",
+  "user_avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+  "description": "",
+  "upvote_count": 0,
+  "dislike_count": 0,
+  "flag_count": 0,
+  "skip_count": 0,
+  "play_count": 0,
+  "song_count": 0,
+  "is_discover_playlist": false,
+  "clipIds": [
+    "4fa029bc-8edb-47a3-9088-c9b0db0b4bf6",
+    "f4a3bd59-bc76-4bad-bdc5-bc376fd00bfb",
+    "e0680c55-7661-4fd2-9c72-c14279542b7d",
+    "7cf7685a-376c-45a8-991e-62129d661f67",
+    "c49af988-8996-49ae-87db-d37bd44181f0",
+    "0c25e902-4e43-434e-af59-a1b7cca4cae7",
+    "23868faf-0be1-4e36-8029-610f76502547",
+    "1650c485-9864-4625-8c0a-0262245f09e1",
+    "dfd52438-101d-4fcf-b096-481e7c512469",
+    "03033a82-acbe-4d02-b1d3-354d21bdff37",
+    "eadc58ae-1fda-4e1c-9691-c1fcce7542c4",
+    "2b25cb75-9bcd-4a97-86a5-fb0d278598da",
+    "356e36b0-9a16-4236-8773-cfd8d1c238fc",
+    "f8eb3d25-efb7-4d87-a56a-263127693b82",
+    "4044de62-9070-4214-9b2b-75c6a06ef7e9",
+    "9cffb095-858b-4f3d-8b03-b13d47889052",
+    "8ae378d6-abdb-4d2d-98bc-2f2d28f0a80d",
+    "af614979-7918-4df0-8db6-743f5948e016",
+    "c23d5ecf-79a5-4c99-b346-bf2765c9fc0b",
+    "3e012a7a-91ef-4657-8a2a-84228a0548aa",
+    "49c8d561-4b5f-4a16-b2ec-f98a3c59dd85",
+    "c4cba662-e072-43eb-a9a9-84132f7e6647",
+    "78af4ff0-e416-4af5-b1b1-6abbd3052437",
+    "11f1d6e7-66cf-4b4e-b7a8-9e5693c7792b",
+    "c8fc27cb-0ba8-4b62-92df-3a6c9a03f5d0",
+    "96227225-cbe8-4dd2-8d3e-95602e9e950a"
+  ]
+}
