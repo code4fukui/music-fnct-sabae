@@ -56,6 +56,10 @@ li {
   border-radius: 5px;
   cursor: pointer;
 }
+li.playing {
+  background-color: #333;
+  color: #ddd;
+}
 audio {
   width: 100%;
   margin-top: 10px;
@@ -88,7 +92,31 @@ audio {
     <div class="player-container" id="div_lylic"></div>
 
 <script type="module">
-const riffleShuffle = (data) => {
+import { shuffle } from "https://js.sabae.cc/shuffle.js";
+import { EXT } from "https://code4fukui.github.io/EXT/EXT.js";
+
+export const likeSort = (data) => {
+  const res1 = [];
+  const res2 = [];
+  for (let i = 0; i < data.length; i += 2) {
+    //console.log(i, data[i].clip.is_liked, data[i + 1].clip.is_liked)
+    if (data[i].clip.is_liked || data[i + 1].clip.is_liked) {
+      if (data[i].clip.is_liked) {
+        res1.push(data[i]);
+        res1.push(data[i + 1]);
+      } else {
+        res1.push(data[i + 1]);
+        res1.push(data[i]);
+      }
+    } else {
+      res2.push(data[i]);
+      res2.push(data[i + 1]);
+    }
+  }
+  return [...res1, ...res2];
+};
+
+export const riffleShuffle = (data) => {
   const res = [];
   for (let i = 0; i < data.length; i += 2) {
     res.push(data[i]);
@@ -99,8 +127,28 @@ const riffleShuffle = (data) => {
   return res;
 };
 
+export const riffleShuffleReverse = (data) => {
+  const res = [];
+  for (let i = data.length - 2; i >= 0; i -= 2) {
+    res.push(data[i]);
+  }
+  for (let i = data.length - 1; i >= 0; i -= 2) {
+    res.push(data[i]);
+  }
+  return res;
+};
+
 const data0 = await (await fetch("playlist.json")).json();
-const data = riffleShuffle(data0.playlist_clips);
+console.log(data0);
+//const data = riffleShuffle(data0.playlist_clips);
+//const data = likeSort(data0.playlist_clips);
+//const data = riffleShuffle(likeSort(data0.playlist_clips));
+const data = riffleShuffleReverse(data0.playlist_clips);
+/*
+shuffle(data0.playlist_clips);
+const data = data0.playlist_clips;
+*/
+console.log(data);
 
 document.title = h2_title.textContent = data0.name;
 
@@ -108,7 +156,42 @@ const unescape = (s) => {
   return s.replace(/\\n/g, "\n");
 };
 
+let nowclip = null;
+
+const next = () => {
+  for (let i = 0; i < data.length; i++) {
+    if (data[i].clip == nowclip) {
+      show(i + 1 == data.length ? data[0].clip : data[i + 1].clip);
+      break;
+    }
+  }
+};
+const prev = () => {
+  for (let i = 0; i < data.length; i++) {
+    if (data[i].clip == nowclip) {
+      show(i - 1 == -1 ? data[data.length - 1].clip : data[i - 1].clip);
+      break;
+    }
+  }
+};
+
+function updatePositionState() {
+  if (!navigator.mediaSession) return;
+  try {
+    navigator.mediaSession.setPositionState({
+      duration: isFinite(audio_main.duration) ? audio_main.duration : 0,
+      playbackRate: audio_main.playbackRate || 1,
+      position: isFinite(audio_main.currentTime) ? audio_main.currentTime : 0,
+    });
+  } catch (e) {
+    console.log(e);
+  }
+}
+
 const show = async (clip) => {
+  ul_playlist.querySelectorAll("li").forEach(i => i.className = "");
+  clip.li.className = "playing";
+  nowclip = clip;
   const imgurl = clip.image_large_url;
   img_jacket.src = imgurl;
   div_bg.style.backgroundImage = `url('${imgurl}')`;
@@ -117,23 +200,48 @@ const show = async (clip) => {
 
   audio_main.src = clip.audio_url;
   audio_main.play();
-  audio_main.onended = () => {
-    for (let i = 0; i < data.length; i++) {
-      if (data[i].clip.image_large_url == imgurl) {
-        show(i + 1 == data.length ? data[0].fn : data[i + 1].fn);
-        break;
-      }
-    }
-  };
+  audio_main.onended = () => next();
+  //audio_main.onended = () => prev();
+
+  // for Media Session API
+  if (navigator.mediaSession) {
+    navigator.mediaSession.metadata = new MediaMetadata({
+      title: clip.title,
+      //artist: clip.artist,
+      album: data0.name,
+      artwork: [{ src: imgurl, size: "1024x1024" , type: 'image/' + EXT.get(imgurl) }],
+    });
+    // 再生位置情報（スクラブ/UIの精度が増す）
+    updatePositionState();
+  }
 };
 
 for (const item of data) {
   const li = document.createElement("li");
   li.textContent = item.clip.title;
   ul_playlist.appendChild(li);
+  item.clip.li = li;
   li.onclick = () => show(item.clip);
 }
 show(data[0].clip);
+
+// for Media Session API - リモコン（CarPlay/BTボタン/ロック画面/イヤホン）ハンドラ
+if (navigator.mediaSession) {
+  navigator.mediaSession.setActionHandler('play',  () => {
+    if (nowclip) {
+      audio_main.play();
+    } else {
+      show(data[0].clip);
+    }
+  });
+  navigator.mediaSession.setActionHandler('pause', () => audio_main.pause());
+  navigator.mediaSession.setActionHandler('previoustrack', prev);
+  navigator.mediaSession.setActionHandler('nexttrack', next);
+  navigator.mediaSession.setActionHandler('seekto', (d) => {
+    if (typeof d.seekTime === 'number') audio_main.currentTime = d.seekTime;
+    updatePositionState();
+  });
+}
 
 </script>
 
